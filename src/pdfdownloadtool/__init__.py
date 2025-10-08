@@ -1,3 +1,3 @@
-from .tool import Pdfdownloadtool
+from .tool import PDFDownloadTool
 
-__all__ = ["Pdfdownloadtool"]
+__all__ = ["PDFDownloadTool"]
